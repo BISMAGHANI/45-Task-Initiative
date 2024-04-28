@@ -1,16 +1,15 @@
 {
-  "dependencies": {
-    "@types/node": "^20.12.7"
-  },
-  "name": "42_great_magicians",
+  "name": "43_unchanged_magicians",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "dependencies": {
+    "@types/node": "^20.12.7"
+  }
 }
